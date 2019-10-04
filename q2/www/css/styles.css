@@ -1,0 +1,27 @@
+
+
+
+
+
+h1 {
+  color: #99003b;
+  text-align: center;
+}
+
+p {
+  color: #00003b;
+  font-family: sans-serif;:
+  text-align: center;
+
+  background-color: white;
+  width: 300px;
+  border: 15px solid #33003b;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+
+body {
+background: #00003b; /*dark blue */
+}
